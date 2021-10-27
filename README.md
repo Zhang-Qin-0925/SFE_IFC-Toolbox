@@ -9,5 +9,8 @@
   program language: Matlab R2019a
   year first available:2020
   
+20211027 update
 
-
+3. the compressed package named 'Software and Code(SFE_IFC_20211027).rar' includes all detailed scripts for this toolbox.
+4. if you want to use this toolbox, please refer this paper:
+5. Zhang, Qin, Liping Zhang, Dunxian She, Shuxia Wang, Gangsheng Wang, and Sidong Zeng. 2021. “Automatic Procedure for Selecting Flood Events and Identifying Flood Characteristics from Daily Streamflow Data.” Environmental Modelling and Software 145 (August): 105180. https://doi.org/10.1016/j.envsoft.2021.105180.
